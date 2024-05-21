@@ -1,4 +1,5 @@
 region           = "us-east-2"
+project_owner    = "safvan"
 project_name     = "zomato"
 project_env      = "development "
 instance_ami     = "ami-02bf8ce06a8ed6092"

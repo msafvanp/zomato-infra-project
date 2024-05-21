@@ -5,6 +5,15 @@ variable "region" {
 
 }
 
+
+
+variable "project_owner" {
+
+  description = "project owner name"
+  type        = string
+
+}
+
 variable "project_name" {
 
   description = "terraform project name"
